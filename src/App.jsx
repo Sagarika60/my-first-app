@@ -87,7 +87,7 @@ import ClMethod from "./MyComponent/ClMethod"
           <Route path="/mymemo" element={<MyMemo/>}/>
           <Route path="/formhandling" element={<FormHandling/>}/>
           <Route path="/apiconnectivity" element={<ApiConnectivity/>}/>
-          <Route path="/clmethod" element={<ClMethod/>}/>
+          <Route path="/clmethod" element={<ClMethod favColor={"Brown"}/>}/>
        </Routes>
        <Footer/>
        </BrowserRouter>       
