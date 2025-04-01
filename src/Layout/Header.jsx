@@ -5,8 +5,7 @@ return(
        <Link to={"/"}>Home</Link> ||
        <Link to={"/about"}>About</Link>  ||
        <Link to={"/contact"}>Contact</Link>  ||
-        <Link to={"/myeffect"}>use Effect and Map</Link>    ||
-        <Link to={"/mypath"}>Navigation</Link>  ||
+        <Link to={"/mypath"}>MyNavigate</Link>  ||
         <Link to={"/mydata"}>MapData</Link> ||
         <Link to={"/mycontext"}>MyContext</Link>||
         <Link to ={"/callback"}>MyCallBack</Link>||
